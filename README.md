@@ -1,2 +1,5 @@
-# rng
-really simple random number generator
+# RNG
+
+Really simple random number generator
+
+Primarily to be used for number mnononics
